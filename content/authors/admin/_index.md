@@ -11,22 +11,21 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Edinburgh
-    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Terrestrial Carbon Cycle
+  - Urban Meteorology
+  - Data Assimilation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Meteorology and Atmospheric Science
+      institution: Pennsylvania State University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
